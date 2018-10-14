@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f0023bbf31eabe409768f1e13217f42, type: 3}
+  m_Name: 11 - DungeonBrick1
+  m_EditorClassIdentifier: 
+  name: DungeonBrick1
+  icon: {fileID: 21300026, guid: 999e3986c1694e148b5ec1b224a3bfe5, type: 3}
+  id: 11
+  stackSize: 999
+  layer: 10
+  health: 5

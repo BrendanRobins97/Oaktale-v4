@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f737a00f9edfd114a81865524fa452ea, type: 3}
+  m_Name: 1001 - Grass
+  m_EditorClassIdentifier: 
+  name: Grass
+  icon: {fileID: 21300000, guid: 0955cf643d35da341a7081f584cd03ac, type: 3}
+  id: 1001
+  stackSize: 999
+  texture: {fileID: 0}
+  health: 5
+  layer: 5

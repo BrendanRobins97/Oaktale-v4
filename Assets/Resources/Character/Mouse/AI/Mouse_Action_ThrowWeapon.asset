@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87541171e04db2e44ae93a8aae43a891, type: 3}
+  m_Name: Mouse_Action_ThrowWeapon
+  m_EditorClassIdentifier: 
+  velocity: 15
+  gravity: 30
+  pauseAfterThrowDuration: 1.5

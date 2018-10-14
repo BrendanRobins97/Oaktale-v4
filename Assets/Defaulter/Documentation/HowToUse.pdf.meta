@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: e927da0299262fe45b0b46e0e2c51a76
+labels:
+- Animation
+- Asset
+- Audio
+- Default
+- Import
+- Importer
+- Importers
+- Material
+- Mesh
+- Model
+- Rig
+- Scene
+- Texture
+- asset
+- assetimporter
+- assetimporters
+- assets
+- default
+- defaultimporter
+- import
+- importers
+timeCreated: 1483566525
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4c79f1b40d6670a4e92b4641ecec0c5c, type: 3}
+  m_Name: 910 - Candle
+  m_EditorClassIdentifier: 
+  name: Candle
+  icon: {fileID: 21300006, guid: 34a61b903726f184b94097a5966dff02, type: 3}
+  id: 910
+  stackSize: 999
+  DecorationType: 0
+  Height: 1
+  Prefab: {fileID: 114190247124357864, guid: c4847abd0dbe45a40a3994d231e4f987, type: 2}
+  Width: 1

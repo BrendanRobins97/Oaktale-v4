@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21372280a05820d4abee0e676c675fed, type: 3}
+  m_Name: 2001 - CornSeed
+  m_EditorClassIdentifier: 
+  name: CornSeed
+  icon: {fileID: 21300000, guid: 830e442ddbbf8684086f5e23436d0e13, type: 3}
+  id: 2001
+  stackSize: 999
+  DecorationType: 0
+  Height: 0
+  Prefab: {fileID: 114700051347287418, guid: 9ca98fe3489878d459dacc34f921ea15, type: 2}
+  Width: 0
+  stageSprites:
+  - {fileID: 21300000, guid: f1d4a69aab34bfe449daa43bd8b4a729, type: 3}
+  - {fileID: 21300002, guid: f1d4a69aab34bfe449daa43bd8b4a729, type: 3}
+  - {fileID: 21300004, guid: f1d4a69aab34bfe449daa43bd8b4a729, type: 3}
+  - {fileID: 21300006, guid: f1d4a69aab34bfe449daa43bd8b4a729, type: 3}
+  stageTimers:
+  - 0
+  - 4
+  - 8
+  - 12

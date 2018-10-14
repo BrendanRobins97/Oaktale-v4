@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9893f7348f60d9342a0323662e12893f, type: 3}
+  m_Name: Mouse_State_RetrieveWeapon
+  m_EditorClassIdentifier: 
+  actions:
+  - {fileID: 11400000, guid: 0c64f690105730d4db3a1ca2c47962bd, type: 2}
+  transitions: []

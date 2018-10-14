@@ -1,0 +1,471 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 885759496db1d414e9d27af709c02977, type: 3}
+  m_Name: Defaulter
+  m_EditorClassIdentifier: 
+  currentType: 1
+  safeType: 1
+  settingsData:
+    showRules: 0
+    automaticSpriteConversion: 1
+    blenderBackupHandleMode: 0
+  hasInitialized: 0
+  modelData:
+    ruleName: NEW RULE
+    isDefault: 0
+    importMode: 0
+    nameContainsCondition:
+      enabled: 0
+      check: 
+    pathContainsCondition:
+      enabled: 0
+      check: 
+    fileExtensionCondition:
+      enabled: 0
+      check: 
+    imageSizeCondition:
+      enabled: 0
+      enableWidthLessThan: 0
+      enableHeightLessThan: 0
+      enableWidthGreaterThan: 0
+      enableHeightGreaterThan: 0
+      widthLessThan: 1
+      heightLessThan: 1
+      widthGreaterThan: 2
+      heightGreaterThan: 2
+    gameObjectOptions:
+      override_tag: 0
+      tag: Untagged
+      override_layer: 0
+      layer: 0
+      override_flags: 0
+      flags: 0
+    meshOptions:
+      override_globalScale: 0
+      globalScale: 1
+      override_meshCompression: 0
+      meshCompression: 0
+      override_isReadable: 0
+      isReadable: 1
+      override_optimizeMesh: 0
+      optimizeMesh: 1
+      override_importBlendShapes: 0
+      importBlendShapes: 1
+      override_addCollider: 0
+      addCollider: 0
+      override_keepQuads: 0
+      keepQuads: 0
+      override_swapUVChannels: 0
+      swapUVChannels: 0
+    normalAndTangentOptions:
+      override_importNormals: 0
+      importNormals: 0
+      override_normalSmoothingAngle: 0
+      normalSmoothingAngle: 60
+      override_importTangents: 0
+      importTangents: 3
+    lightmapOptions:
+      override_generateSecondaryUV: 0
+      generateSecondaryUV: 0
+      override_secondaryUVHardAngle: 0
+      secondaryUVHardAngle: 88
+      override_secondaryUVPackMargin: 0
+      secondaryUVPackMargin: 4
+      override_secondaryUVAngleDistortion: 0
+      secondaryUVAngleDistortion: 8
+      override_secondaryUVAreaDistortion: 0
+      secondaryUVAreaDistortion: 15
+    materialOptions:
+      override_importMaterials: 0
+      importMaterials: 1
+      override_materialName: 0
+      materialName: 0
+      override_materialSearch: 0
+      materialSearch: 1
+      override_defaultMaterial: 0
+      defaultMaterial: {fileID: 0}
+    rigOptions:
+      override_animationType: 0
+      animationType: 2
+      override_optimizeGameObjects: 0
+      optimizeGameObjects: 0
+    animationOptions:
+      override_importAnimation: 0
+      importAnimation: 1
+  textureData:
+    ruleName: NEW RULE
+    isDefault: 0
+    importMode: 0
+    nameContainsCondition:
+      enabled: 0
+      check: 
+    pathContainsCondition:
+      enabled: 0
+      check: 
+    fileExtensionCondition:
+      enabled: 0
+      check: 
+    imageSizeCondition:
+      enabled: 0
+      enableWidthLessThan: 0
+      enableHeightLessThan: 0
+      enableWidthGreaterThan: 0
+      enableHeightGreaterThan: 0
+      widthLessThan: 1
+      heightLessThan: 1
+      widthGreaterThan: 2
+      heightGreaterThan: 2
+    general:
+      override_textureType: 0
+      textureType: 0
+      override_textureShape: 0
+      textureShape: 1
+      override_npotScale: 0
+      npotScale: 1
+      override_isReadable: 0
+      isReadable: 1
+      override_sRGBTexture: 0
+      sRGBTexture: 1
+      override_lightType: 0
+      lightType: 0
+    alpha:
+      override_alphaSource: 0
+      alphaSource: 1
+      override_alphaIsTransparency: 0
+      alphaIsTransparency: 0
+    mipMaps:
+      override_mipmapEnabled: 0
+      mipmapEnabled: 1
+      override_borderMipmap: 0
+      borderMipmap: 0
+      override_mipmapFilter: 0
+      mipmapFilter: 0
+      override_fadeout: 0
+      fadeout: 0
+      override_mipmapFadeDistance: 0
+      mipmapFadeDistanceStart: 1
+      mipmapFadeDistanceEnd: 3
+    normalMap:
+      override_convertToNormalmap: 0
+      convertToNormalmap: 0
+      override_heightmapScale: 0
+      heightmapScale: 0.25
+      override_normalmapFilter: 0
+      normalmapFilter: 0
+    quality:
+      override_wrapMode: 0
+      wrapMode: 1
+      override_filterMode: 0
+      filterMode: 1
+      override_anisoLevel: 0
+      anisoLevel: 1
+      override_maxTextureSize: 0
+      maxTextureSize: 2048
+      override_textureCompression: 0
+      textureCompression: 1
+      override_textureFormat: 0
+      textureFormat: -1
+      override_crunchedCompression: 0
+      crunchedCompression: 0
+      override_compressionQuality: 0
+      compressionQuality: 50
+  spriteData:
+    ruleName: NEW RULE
+    isDefault: 0
+    importMode: 0
+    nameContainsCondition:
+      enabled: 0
+      check: 
+    pathContainsCondition:
+      enabled: 0
+      check: 
+    fileExtensionCondition:
+      enabled: 0
+      check: 
+    imageSizeCondition:
+      enabled: 0
+      enableWidthLessThan: 0
+      enableHeightLessThan: 0
+      enableWidthGreaterThan: 0
+      enableHeightGreaterThan: 0
+      widthLessThan: 1
+      heightLessThan: 1
+      widthGreaterThan: 2
+      heightGreaterThan: 2
+    spriteOptions:
+      override_spriteImportMode: 0
+      spriteImportMode: 1
+      override_spritePackingTag: 0
+      spritePackingTag: 
+      override_spritePixelsPerUnit: 0
+      spritePixelsPerUnit: 100
+      override_spriteMeshType: 0
+      spriteMeshType: 1
+      override_spriteExtrude: 0
+      spriteExtrude: 1
+      override_single: 0
+      single:
+        name: 
+        pivot: {x: 0.5, y: 0.5}
+        rect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        border: {x: 0, y: 0, z: 0, w: 0}
+        alignment: 0
+      override_spritesheet: 0
+      spritesheet: []
+    general:
+      override_textureType: 0
+      textureType: 8
+      override_textureShape: 0
+      textureShape: 1
+      override_npotScale: 0
+      npotScale: 1
+      override_isReadable: 0
+      isReadable: 1
+      override_sRGBTexture: 0
+      sRGBTexture: 1
+      override_lightType: 0
+      lightType: 0
+    alpha:
+      override_alphaSource: 0
+      alphaSource: 1
+      override_alphaIsTransparency: 0
+      alphaIsTransparency: 0
+    mipMaps:
+      override_mipmapEnabled: 0
+      mipmapEnabled: 1
+      override_borderMipmap: 0
+      borderMipmap: 0
+      override_mipmapFilter: 0
+      mipmapFilter: 0
+      override_fadeout: 0
+      fadeout: 0
+      override_mipmapFadeDistance: 0
+      mipmapFadeDistanceStart: 1
+      mipmapFadeDistanceEnd: 3
+    quality:
+      override_wrapMode: 0
+      wrapMode: 1
+      override_filterMode: 0
+      filterMode: 1
+      override_anisoLevel: 0
+      anisoLevel: 16
+      override_maxTextureSize: 0
+      maxTextureSize: 2048
+      override_textureCompression: 0
+      textureCompression: 1
+      override_textureFormat: 0
+      textureFormat: -1
+      override_crunchedCompression: 0
+      crunchedCompression: 0
+      override_compressionQuality: 0
+      compressionQuality: 50
+  audioData:
+    ruleName: NEW RULE
+    isDefault: 0
+    importMode: 0
+    nameContainsCondition:
+      enabled: 0
+      check: 
+    pathContainsCondition:
+      enabled: 0
+      check: 
+    fileExtensionCondition:
+      enabled: 0
+      check: 
+    imageSizeCondition:
+      enabled: 0
+      enableWidthLessThan: 0
+      enableHeightLessThan: 0
+      enableWidthGreaterThan: 0
+      enableHeightGreaterThan: 0
+      widthLessThan: 1
+      heightLessThan: 1
+      widthGreaterThan: 2
+      heightGreaterThan: 2
+    generalOptions:
+      override_forceToMono: 0
+      forceToMono: 0
+      override_normalize: 0
+      normalize: 0
+      override_loadInBackground: 0
+      loadInBackground: 0
+      override_preloadAudioData: 0
+      preloadAudioData: 1
+    sampleSettingsOptions:
+      override_compressionFormat: 0
+      compressionFormat: 1
+      override_conversionMode: 0
+      conversionMode: 0
+      override_loadType: 0
+      loadType: 0
+      override_quality: 0
+      quality: 1
+      override_sampleRateSetting: 0
+      sampleRateSetting: 0
+      override_sampleRateOverride: 0
+      sampleRateOverride: 44100
+  sceneData:
+    ruleName: NEW RULE
+    isDefault: 0
+    importMode: 0
+    nameContainsCondition:
+      enabled: 0
+      check: 
+    pathContainsCondition:
+      enabled: 0
+      check: 
+    fileExtensionCondition:
+      enabled: 0
+      check: 
+    imageSizeCondition:
+      enabled: 0
+      enableWidthLessThan: 0
+      enableHeightLessThan: 0
+      enableWidthGreaterThan: 0
+      enableHeightGreaterThan: 0
+      widthLessThan: 1
+      heightLessThan: 1
+      widthGreaterThan: 2
+      heightGreaterThan: 2
+    environmentLightingOptions:
+      override_skybox: 0
+      skybox: {fileID: 0}
+      override_sun: 0
+      sun: {fileID: 0}
+      override_ambientMode: 0
+      ambientMode: 0
+      override_ambientLight: 0
+      ambientLight: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+      override_ambientSkyColor: 0
+      ambientSkyColor: {r: 0.212, g: 0.227, b: 0.259, a: 1}
+      override_ambientEquatorColor: 0
+      ambientEquatorColor: {r: 0.114, g: 0.125, b: 0.133, a: 1}
+      override_ambientGroundColor: 0
+      ambientGroundColor: {r: 0.047, g: 0.043, b: 0.035, a: 1}
+      override_ambientIntensity: 0
+      ambientIntensity: 1
+      override_ambientGI: 0
+      ambientGI: 0
+      override_defaultReflectionMode: 0
+      defaultReflectionMode: 0
+      override_defaultReflectionResolution: 0
+      defaultReflectionResolution: 128
+      override_reflectionCompression: 0
+      reflectionCompression: 10
+      override_reflectionIntensity: 0
+      reflectionIntensity: 1
+      override_reflectionBounces: 0
+      reflectionBounces: 1
+      override_customReflection: 0
+      customReflection: {fileID: 0}
+    generalGlobalIlluminationOptions:
+      override_automaticBaking: 0
+      automaticBaking: 1
+      override_lightmappingIndirectIntensity: 0
+      lightmappingIndirectIntensity: 1
+      override_lightmappingBouceBoost: 0
+      lightmappingBouceBoost: 1
+      override_lightingDataAsset: 0
+      lightingDataQuality: 2
+      customLightingDataAsset: {fileID: 0}
+    precomputedRealtimeGlobalIlluminationOptions:
+      override_lightmappingRealtimeGI: 0
+      lightmappingRealtimeGI: 1
+      override_texelsPerUnit: 0
+      texelsPerUnit: 2
+      override_cpuUsage: 0
+      cpuUsage: 0
+    bakedGlobalIlluminationOptions:
+      override_lightmappingBakedGI: 0
+      lightmappingBakedGI: 1
+      override_texelsPerUnit: 0
+      texelsPerUnit: 40
+      override_texelPadding: 0
+      texelPadding: 2
+      override_compressed: 0
+      compressed: 1
+      override_ambientOcclusion: 0
+      ambientOcclusion: 0
+      override_ambientOcclusionMaxDistance: 0
+      ambientOcclusionMaxDistance: 1
+      override_ambientOcclusionIndirect: 0
+      ambientOcclusionIndirect: 1
+      override_ambientOcclusionDirect: 0
+      ambientOcclusionDirect: 0
+      override_finalGather: 0
+      finalGather: 0
+      override_finalGatherRayCount: 0
+      finalGatherRayCount: 256
+      override_finalGatherDenoising: 0
+      finalGatherDenoising: 1
+      override_atlasSize: 0
+      atlasSize: 1024
+      override_addDirectLight: 0
+      addDirectLight: 1
+    fogOptions:
+      override_fog: 0
+      fog: 1
+      override_fogColor: 0
+      fogColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
+      override_fogMode: 0
+      fogMode: 3
+      override_fogStartDistance: 0
+      fogStartDistance: 0
+      override_fogEndDistance: 0
+      fogEndDistance: 300
+      override_fogDensity: 0
+      fogDensity: 0.01
+    otherOptions:
+      override_haloTexture: 0
+      haloTexture: {fileID: 0}
+      override_haloStrength: 0
+      haloStrength: 0.5
+      override_flareFadeSpeed: 0
+      flareFadeSpeed: 3
+      override_flareStrength: 0
+      flareStrength: 1
+      override_spotCookie: 0
+      spotCookie: {fileID: 0}
+    navMeshOptions:
+      override_agentRadius: 0
+      agentRadius: 0.5
+      override_agentHeight: 0
+      agentHeight: 2
+      override_agentSlope: 0
+      agentSlope: 45
+      override_agentClimb: 0
+      agentClimb: 0.4
+      override_ledgeDropHeight: 0
+      ledgeDropHeight: 0
+      override_maxJumpAcrossDistance: 0
+      maxJumpAcrossDistance: 0
+      override_manualCellSize: 0
+      manualCellSize: 0
+      override_cellSize: 0
+      cellSize: 0.1666667
+      override_minRegionArea: 0
+      minRegionArea: 2
+      override_accuratePlacement: 0
+      accuratePlacement: 0
+  modelRules: []
+  textureRules: []
+  spriteRules: []
+  audioRules: []
+  sceneRules: []
+  helpData:
+    override_example: 0
+    example: 1
+  _importedAssets: []
